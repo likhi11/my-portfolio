@@ -1,2 +1,102 @@
 # my-portfolio
 Bojja Likhitha Sree portfolio
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bojja Likhitha Sree | Portfolio</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f5f7fa;
+      color: #333;
+    }
+    header {
+      background: #4f46e5;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 15px;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 40px;
+      max-width: 900px;
+      margin: auto;
+    }
+    .card {
+      background: white;
+      padding: 20px;
+      margin: 20px 0;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #4f46e5;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Bojja Likhitha Sree</h1>
+  <p>eletronics and instrumentation engineering Student | entry level Web and embedded systems Developer</p>
+  <nav>
+    <a href="#about">About</a>
+    <a href="#education">Education</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<section id="about">
+  <div class="card">
+    <h2>About Me</h2>
+    <p>I am a passionate eletronics and instrumentation engineering  student with skills in entry level web and embedded systems development and problem-solving. I enjoy building real-world projects and learning new technologies.</p>
+  </div>
+</section>
+
+<section id="education">
+  <div class="card">
+    <h2>Education</h2>
+    <p><strong> VNR Vignan Jyothi Institute of Engineering and Technology |  Bachelor of Technology</strong><br>CGPA: 7.55(2023 - present)</p>
+    <p><strong>TMR Junior College, Khammam</strong><br>Percentage: 91% (2023)</p>
+  </div>
+</section>
+
+<section id="projects">
+  <div class="card">
+    <h2>Projects</h2>
+    <ul>
+      <li>User Authentication System</li>
+      <li>Employee Management System</li>
+      <li>Local Store E-commerce Platform</li>
+      <li>Real-Time Chat Application</li>
+    </ul>
+  </div>
+</section>
+
+<section id="contact">
+  <div class="card">
+    <h2>7386384585</h2>
+    <p>Email: likithasree2005@gmail.com</p>
+    <p>LinkedIn: https://www.linkedin.com/in/likhitha-sree-bojja-1a8671218/</p>
+    <p>GitHub: https://github.com/likhi11</p>
+  </div>
+</section>
+
+<footer>
+  <p>© 2027 Bojja Likhitha Sree</p>
+</footer>
+
+</body>
+</html>
